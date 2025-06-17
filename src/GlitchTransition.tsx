@@ -1,4 +1,4 @@
-import React, { FC, useState, useEffect, useRef } from 'react';
+import { FC, useState, useEffect, useRef } from 'react';
 
 // Re-using your Segment interface
 interface Segment {
