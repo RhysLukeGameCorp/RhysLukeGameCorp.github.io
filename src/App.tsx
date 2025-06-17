@@ -1,10 +1,10 @@
 import { Stack } from '@mui/material';
-import BannerImage from './Banner';
+import Lander from './Lander';
 
 export default function App() {
   return (
     <Stack>
-      <BannerImage></BannerImage>
+      <Lander></Lander>
     </Stack>
   );
 }
